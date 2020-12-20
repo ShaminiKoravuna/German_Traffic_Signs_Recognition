@@ -23,9 +23,9 @@ Run TrafficSignClassifier.ipynb
 Run GUI_classifier.ipynb 
 * Graphical User Interface for visualizing the results.
 
-![Image_traffic](https://drive.google.com/drive/u/4/folders/1i_ds379UuzHYgFEvG2VRkUTbvyQ2-Vjm/1.jpg)
-![Image_traffic](https://drive.google.com/drive/u/4/folders/1i_ds379UuzHYgFEvG2VRkUTbvyQ2-Vjm/2.jpg)
-![Image_traffic](https://drive.google.com/drive/u/4/folders/1i_ds379UuzHYgFEvG2VRkUTbvyQ2-Vjm/3.jpg)
+![alt text](https://drive.google.com/drive/u/4/folders/1i_ds379UuzHYgFEvG2VRkUTbvyQ2-Vjm/1.jpg)
+![alt text](https://drive.google.com/drive/u/4/folders/1i_ds379UuzHYgFEvG2VRkUTbvyQ2-Vjm/2.jpg)
+![alt text](https://drive.google.com/drive/u/4/folders/1i_ds379UuzHYgFEvG2VRkUTbvyQ2-Vjm/3.jpg)
 
 
  
