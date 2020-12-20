@@ -23,10 +23,11 @@ Run TrafficSignClassifier.ipynb
 Run GUI_classifier.ipynb 
 * Graphical User Interface for visualizing the results.
 
-! (https://drive.google.com/drive/u/4/folders/1i_ds379UuzHYgFEvG2VRkUTbvyQ2-Vjm/1.jpg)
-! (https://drive.google.com/drive/u/4/folders/1i_ds379UuzHYgFEvG2VRkUTbvyQ2-Vjm/2.jpg)
-! (https://drive.google.com/drive/u/4/folders/1i_ds379UuzHYgFEvG2VRkUTbvyQ2-Vjm/3.jpg)
+![Image_traffic](https://github.com/ShaminiKoravuna/Traffic_Signs_Recognition/blob/main/output/1.jpg)
 
+![Image_traffic](https://github.com/ShaminiKoravuna/Traffic_Signs_Recognition/blob/main/output/2.jpg)
+
+![Image_traffic](https://github.com/ShaminiKoravuna/Traffic_Signs_Recognition/blob/main/output/3.jpg)
 
  
 
