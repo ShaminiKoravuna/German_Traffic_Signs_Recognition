@@ -1,4 +1,4 @@
-# Traffic_Signs_Recognition
+# German_Traffic_Signs_Recognition
 
 The model is trained for 15 epochs and provides an accuracy of 94.33%
 
